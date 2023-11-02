@@ -1,0 +1,14 @@
+C:\Users\Mathieu\Documents\GitHub\Runescape Task Generator\Runescape Task Generator\Runescape Task Generator\bin\Debug\Runescape Task Generator.exe.config
+C:\Users\Mathieu\Documents\GitHub\Runescape Task Generator\Runescape Task Generator\Runescape Task Generator\bin\Debug\Runescape Task Generator.exe
+C:\Users\Mathieu\Documents\GitHub\Runescape Task Generator\Runescape Task Generator\Runescape Task Generator\bin\Debug\Runescape Task Generator.pdb
+C:\Users\Mathieu\Documents\GitHub\Runescape Task Generator\Runescape Task Generator\Runescape Task Generator\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Mathieu\Documents\GitHub\Runescape Task Generator\Runescape Task Generator\Runescape Task Generator\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Mathieu\Documents\GitHub\Runescape Task Generator\Runescape Task Generator\Runescape Task Generator\obj\Debug\Runescape Task Generator.csproj.AssemblyReference.cache
+C:\Users\Mathieu\Documents\GitHub\Runescape Task Generator\Runescape Task Generator\Runescape Task Generator\obj\Debug\Runescape_Task_Generator.RSGenerator.resources
+C:\Users\Mathieu\Documents\GitHub\Runescape Task Generator\Runescape Task Generator\Runescape Task Generator\obj\Debug\Runescape_Task_Generator.Properties.MonsterJSON.resources
+C:\Users\Mathieu\Documents\GitHub\Runescape Task Generator\Runescape Task Generator\Runescape Task Generator\obj\Debug\Runescape_Task_Generator.Properties.Resources.resources
+C:\Users\Mathieu\Documents\GitHub\Runescape Task Generator\Runescape Task Generator\Runescape Task Generator\obj\Debug\Runescape Task Generator.csproj.GenerateResource.cache
+C:\Users\Mathieu\Documents\GitHub\Runescape Task Generator\Runescape Task Generator\Runescape Task Generator\obj\Debug\Runescape Task Generator.csproj.CoreCompileInputs.cache
+C:\Users\Mathieu\Documents\GitHub\Runescape Task Generator\Runescape Task Generator\Runescape Task Generator\obj\Debug\Runescape Task Generator.csproj.CopyComplete
+C:\Users\Mathieu\Documents\GitHub\Runescape Task Generator\Runescape Task Generator\Runescape Task Generator\obj\Debug\Runescape Task Generator.exe
+C:\Users\Mathieu\Documents\GitHub\Runescape Task Generator\Runescape Task Generator\Runescape Task Generator\obj\Debug\Runescape Task Generator.pdb

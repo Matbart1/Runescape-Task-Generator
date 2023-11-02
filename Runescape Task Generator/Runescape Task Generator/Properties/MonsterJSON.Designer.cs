@@ -59,15 +59,5 @@ namespace Runescape_Task_Generator.Properties {
                 resourceCulture = value;
             }
         }
-        
-        /// <summary>
-        ///   Looks up a localized resource of type System.Byte[].
-        /// </summary>
-        internal static byte[] schema_monsters {
-            get {
-                object obj = ResourceManager.GetObject("schema_monsters", resourceCulture);
-                return ((byte[])(obj));
-            }
-        }
     }
 }
